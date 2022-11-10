@@ -1,83 +1,125 @@
 body {
-    background-color: aqua;
-    margin: 0;
+  margin: 0;
+   font-family: Arial;
 }
 .botonera {
-    background-color: brown;
-    width: 100vw;
-    height: 6vh;
-    display: flex;
+  /* background-color: brown; */
+  width: 100vw;
+  height: 6vh;
+  display: flex;
 }
 .right {
-    background-color: aliceblue;
-    display: flex;
-    width: 20vw;
+  /* background-color: aliceblue; */
+  width: 20vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
 }
 .center {
-background-color: blueviolet;
-width: 50vw;
+  /* background-color: blueviolet; */
+  width: 50vw;
 }
 .left {
-    background-color: aliceblue;
-    display: flex;
-    width: 30vw; 
+  /* background-color: aliceblue; */
+  width: 30vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
 }
+
 .logo {
-    background-color: rgb(226, 43, 174);
-    width: 50vw;
-    height: 30vh;
-    margin-left: 400px;
+  /* background-color: rgb(226, 43, 174); */
+  width: 50vw;
+  height: 40vh;
+  margin-left: 550px;
+  background: url(../img/logo\ google.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 .barraNav {
-    background-color: blue;
-    width: 70vw;
-    height: 10vh;
-    margin-left: 240px;
+  background-color: blue;
+  width: 70vw;
+  height: 10vh;
+  margin-left: 240px;
+  border: 5px solid black;
 }
+ iframe {
+  background-color: darkgoldenrod;
+  width: 50vw;
+  height: 7vh;
+} 
+
 .botones {
-    background-color: rgb(238, 255, 0);
-    width: 70vw;
-    height: 10vh;
-    margin-left: 240px;
-    display: flex;
+  /* background-color: rgb(238, 255, 0); */
+  width: 70vw;
+  height: 10vh;
+  margin-left: 240px;
+  display: flex;
 }
 .boton1 {
-    background-color: crimson;
-    width: 30vw;
-    height: 10vh;
-    display: flex;
-    margin-left: 2px;
+  background-color: crimson;
+  width: 30vw;
+  height: 10vh;
+  display: flex;
+  margin-left: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+ 
 }
 .boton1-1 {
-    width: 10vw;
-    height: 5vh;
-    border: solid black;
-      border-bottom-left-radius: 10px;
-    border-bottom-right-radius: 10px;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-}
-.boton2 {
-    background-color: crimson;
-    width: 30vw;
-    height: 10vh;
-    display: flex;
-    margin-left: 450px;
-}
-.boton1-2 {
-    width: 10vw;
-    height: 5vh;
-    border: solid black;
-      border-bottom-left-radius: 10px;
-    border-bottom-right-radius: 10px;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
+  width: 10vw;
+  height: 5vh;
+  border: solid black;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  text-align: center;
 }
 .frase {
-    background-color: rgb(17, 255, 0);
-    width: 70vw;
-    height: 8vh;
-    margin-left: 240px;
-    text-align: center;
-   
+  /* background-color: rgb(17, 255, 0); */
+  width: 70vw;
+  height: 8vh;
+  margin-left: 210px;
+  text-align: center;
+}
+.barraFinal1 {
+  /* background-color: rgb(194, 194, 241); */
+  width: 95vw;
+  height: 3vh;
+ margin-left: 25px;
+ margin-top: 100px;
+ color: grey;
+}
+.barraFinal2 {
+  /* background-color: rgb(72, 72, 98); */
+  width: 100vw;
+  height: 5vh;
+margin-top: 20px;
+display: flex;
+}
+.right1 {
+  /* background-color: rgb(247, 255, 240); */
+  width: 30vw;
+   display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.center1 {
+  /* background-color: blueviolet; */
+  width: 40vw;
+   display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.left1 {
+  /* background-color: rgb(172, 15, 131); */
+  width: 30vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+a {
+  text-decoration : none;
 }
