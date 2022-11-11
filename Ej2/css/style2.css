@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+}
+.container {
+    background: url(../img2/imgBing.jpg);
+    background-repeat: no-repeat;
+}
+.barraTop {
+    height: 10vh;
+    display: flex;
+}
+.logo {
+width: 15vw;
+height: 5vh;
+background: url(../img2/logoBing1.png);
+background-repeat: no-repeat;
+background-size: 200px;
+ display: flex;
+margin-left: 200px;
+padding: 10px;
+margin-top: 17px;
+}
+.barraTop1 {
+    width: 40vw;
+    height: 10vh;
+   display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+      color: white;
+
+}
+.barraTop2 {
+    width: 40vw;
+    height: 10vh;
+     display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+      color: white;
+
+}
+.barraBusqueda {
+    height: 10vh;
+    margin-top: 130px;
+}
+ .input {
+  width: 60vw;
+  height: 7vh;
+  border-radius: 30px;
+  font-size: small;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 320px;
+} 
+.imagenes {
+    width: 99vw;
+    height: 26vh;
+    display: flex;
+    justify-content: center;
+    margin-top: 300px;
+}
+.imagen1 {
+border: 1px solid black;
+width: 13vw;
+height: 15vh;
+display: flex;
+align-items: flex-end;
+justify-content: flex-end;
+margin: 4px;
+margin-top: 60px;
+}
+.primera {
+background: url(../img2/2.png);
+background-size: 222px;
+}
+.segunda {
+background: url(../img2/3.png);
+}
+.tercera {
+background: url(../img2/4.png);
+background-size: 222px;
+}
+.cuarta {
+background: url(../img2/5.png);
+}
+.quinta {
+background: url(../img2/6.png);
+background-size: 222px;
+}
+.sexta {
+    background: url(../img2/7.png);
+}
