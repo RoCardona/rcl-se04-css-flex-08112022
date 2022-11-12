@@ -1,0 +1,128 @@
+body {
+  margin: 0;
+   font-family: Arial;
+}
+.botonera {
+  /* background-color: brown; */
+  width: 100vw;
+  height: 6vh;
+  display: flex;
+}
+.right {
+  /* background-color: aliceblue; */
+  width: 20vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.center {
+  /* background-color: blueviolet; */
+  width: 50vw;
+}
+.left {
+  /* background-color: aliceblue; */
+  width: 30vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.logo {
+  /* background-color: rgb(226, 43, 174); */
+  width: 50vw;
+  height: 40vh;
+  margin-left: 550px;
+  background: url(../img/logo\ google.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.barraNav {
+  /* background-color: blue; */
+  width: 70vw;
+  height: 5vh;
+  margin-left: 240px;
+}
+ .input {
+  /* background-color: darkgoldenrod; */
+  width: 40vw;
+  height: 5vh;
+  border-radius: 20px;
+  font-size: small;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 240px;
+} 
+
+.botones {
+  /* background-color: rgb(238, 255, 0); */
+  width: 70vw;
+  height: 10vh;
+  margin-left: 240px;
+  display: flex;
+}
+.boton1 {
+  /* background-color: rgb(194, 194, 246); */
+  width: 30vw;
+  height: 8vh;
+  display: flex;
+  margin-left: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.boton1-1 {
+  width: 10vw;
+  height: 5vh;
+  background-color: rgb(231, 231, 240);
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
+.frase {
+  /* background-color: rgb(17, 255, 0); */
+  width: 70vw;
+  height: 8vh;
+  margin-left: 210px;
+  text-align: center;
+}
+.barraFinal1 {
+  background-color: rgb(231, 231, 240);
+  width: 100vw;
+  height: 3vh;
+ color: grey;
+margin-top: 170px;
+
+}
+.barraFinal2 {
+  background-color: rgb(231, 231, 240);
+  width: 100vw;
+  height: 7vh;
+margin-top: -20px;
+display: flex;
+
+
+}
+.right1 {
+  /* background-color: rgb(247, 255, 240); */
+  width: 30vw;
+   display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.center1 {
+  /* background-color: blueviolet; */
+  width: 40vw;
+   display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.left1 {
+  width: 30vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+a {
+  text-decoration : none;
+}
