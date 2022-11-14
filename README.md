@@ -14,6 +14,9 @@ Las replicas deben quedar así (como se muestra a continuación), siendo de libr
 
 <img src="/imgReadme/repliBing.png" width="450" height="200">
 
+<img src="/imgReadme/replicaNetReadme.png" width="450" height="200">
+
+
 ### Construido con 🛠️
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,git)
