@@ -1,0 +1,112 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+/* PRIMER BLOQUE/ LOGO NETFLIX */
+.barra1 {
+  width: 99vw;
+  height: 10vh;
+}
+/* LOGO NETFLIX */
+.barra1-1 {
+  display: flex;
+  align-items: center;
+  margin-left: 5px;
+
+}
+a {
+  text-decoration: none;
+   color: white;
+}
+.barra1-2 {
+  width: 60vw;
+  height: 10vh;
+  margin-left: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-indent: 40pt;
+  white-space: nowrap;
+  margin-left: 20%;
+}
+.barra1-3 {
+  width: 30vw;
+  height: 5vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+    text-indent: 5pt;
+  white-space: nowrap;
+  margin-left: 50%;
+}
+/* PRIMER TÍTULO */
+.barra2 {
+height: 6vh;
+ font-size: 25px;
+ color: white;
+margin-left: 13px;
+margin-top: 25px;
+}
+/* CENTRO DONDE VAN LAS IMÁGENES */
+.centro1 {
+  height: 30vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.img {
+  width: 18vw;
+  height: 20vh;
+  border: 3px solid black;
+}
+.image1 {
+  background: url(../imgNetflix/1.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.image2 {
+  background: url(../imgNetflix/2.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.image3 {
+  background: url(../imgNetflix/3.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.image4 {
+  background: url(../imgNetflix/4.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.image5 {
+  background: url(../imgNetflix/5.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+/* SEGUNDA TANDA DE IMAGENES */
+.image1-1 {
+  background: url(../imgNetflix/1-1.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.image1-2 {
+  background: url(../imgNetflix/1-2.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.image1-3 {
+  background: url(../imgNetflix/1-3.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.image1-4 {
+  background: url(../imgNetflix/1-4.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.image1-5 {
+  background: url(../imgNetflix/1-5.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
