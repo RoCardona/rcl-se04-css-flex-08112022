@@ -12,10 +12,15 @@ Las replicas deben quedar así (como se muestra a continuación), siendo de libr
 
 <img src="/imgReadme/repliGoogle.png" width="450" height="200">
 
+https://rocardona.github.io/rcl-se04-css-flex-08112022/Ej1/
+
 <img src="/imgReadme/repliBing.png" width="450" height="200">
+
+https://rocardona.github.io/rcl-se04-css-flex-08112022/Ej2/index2.html
 
 <img src="/imgReadme/replicaNetReadme.png" width="450" height="200">
 
+https://rocardona.github.io/rcl-se04-css-flex-08112022/Ej3/
 
 ### Construido con 🛠️
 
