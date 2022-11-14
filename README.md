@@ -6,7 +6,7 @@ Este es el proyecto tercero del Bootcamp GeeksHubs Fronted and Angular que estoy
 
 ### Ejercicios 🤓
 
-El proyecto consiste en hacer 2 ejercicios, replicando la página de Google y también la de Bing.
+El proyecto consiste en hacer 3 ejercicios, replicando la página de Google, Bing y también la de Netflix.
 
 Las replicas deben quedar así (como se muestra a continuación), siendo de libre elección las imágenes de las páginas:
 
